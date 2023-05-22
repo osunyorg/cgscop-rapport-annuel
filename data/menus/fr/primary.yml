@@ -1,4 +1,6 @@
 ---
+title: Menu principal
+items:
 - title: Chiffres clés
   target: "/chiffres-cles/"
   kind: page
