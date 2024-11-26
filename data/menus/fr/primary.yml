@@ -5,4 +5,5 @@ items:
   target: "/chiffres-cles/"
   kind: page
   children: []
+  file: content/fr/pages/chiffres-cles/_index.html
 
