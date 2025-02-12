@@ -2,6 +2,11 @@
 
 baseURL: https://cgscop-rapport-annuel.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: 4644b986-2a5d-43f7-a6df-067f556d1e9b
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
