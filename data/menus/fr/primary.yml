@@ -2,10 +2,12 @@
 title: Menu principal
 items:
 - title: Chiffres clés
+  slug: chiffres-cles
   target: "/chiffres-cles/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/chiffres-cles"
   file: content/fr/pages/chiffres-cles/_index.html
 
